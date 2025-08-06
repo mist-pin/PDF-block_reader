@@ -1,0 +1,5 @@
+pydantic
+pdfplumber
+httpx
+fastapi
+uvicorn
